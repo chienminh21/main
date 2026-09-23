@@ -1,0 +1,14 @@
+{
+    "name": "Hide Call & Friend",
+    "description": "Hides call, video and add friend buttons from user profiles and DMs",
+    "authors": [
+        {
+            "name": "obi",
+            "id": "780819226839220265"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_person_add"
+    }
+}
